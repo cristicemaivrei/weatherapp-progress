@@ -1,0 +1,62 @@
+
+body {
+    font-family: "Linden Hill", serif;
+    background: rgb(2,0,36);
+background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(121,9,107,1) 100%, rgba(0,212,255,1) 100%);
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.weatherForm {
+    margin: 20px;
+}
+
+.cityInput {
+    padding: 10px;
+    width: 250px;
+    font-size: 16px;
+    font-weight: bold;
+    border: 1px solid rgb(102, 10, 94);
+    border-radius: 4px;
+    font-family: "Linden Hill", serif;
+    outline: none;
+    
+}
+
+.weatherForm button {
+    padding: 10px;
+    height: 46px;
+    border-radius: 5px;
+    border-color: rgb(102, 10, 94);
+    font-weight: bold;
+    border-style: solid;
+    font-family: "Linden Hill", serif;
+    cursor: pointer;
+    transition: 0.4s;
+    
+}
+
+.weatherForm button:hover {
+    background-color: rgb(140, 0, 255);
+    color: white;
+}
+
+.card {
+    background: rgb(2,0,36);
+    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(121,9,107,1) 99%, rgba(0,212,255,1) 100%);
+    padding: 100px;
+    border-radius: 10px;
+    color: white;
+}
+
+.cityDisplay {
+    font-size: 50px;
+}
+
+.errorDisplay {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: black;
+}

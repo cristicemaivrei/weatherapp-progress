@@ -2,4 +2,5 @@
 Mini weather app, in progress, ignore the mock data
 
 
-![Screenshot_10](https://github.com/cristicemaivrei/weatherapp-progress/assets/89873995/c95f736b-a350-403f-8946-259ca29c4cb1)
+
+![Screenshot_11](https://github.com/cristicemaivrei/weatherapp-progress/assets/89873995/b5556390-c2aa-415a-8347-b45656d53f7f)
